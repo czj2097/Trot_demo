@@ -1,0 +1,92 @@
+Wed Oct  7 19:57:28 2015
+
+0:received connection, the ip is: 127.0.0.1
+
+0:received command string:ds -m=15
+
+0:lost connection
+
+11:received connection, the ip is: 127.0.0.1
+
+11:received command string:en -m=15
+
+11:lost connection
+
+16:received connection, the ip is: 127.0.0.1
+
+16:received command string:hm -m=15
+
+16:lost connection
+
+23:received connection, the ip is: 127.0.0.1
+
+23:received command string:ad -f
+
+23:lost connection
+
+26:received connection, the ip is: 127.0.0.1
+
+26:received command string:ad -s
+
+26:lost connection
+
+41:received connection, the ip is: 127.0.0.1
+
+41:received command string:tt -i=1 -n=3 -d=0.2
+
+41:lost connection
+
+65:received connection, the ip is: 127.0.0.1
+
+65:received command string:ad -f
+
+65:lost connection
+
+68:received connection, the ip is: 127.0.0.1
+
+68:received command string:ad -s
+
+68:lost connection
+
+76:received connection, the ip is: 127.0.0.1
+
+76:received command string:tt -i=1 -n=3 -d=0.2
+
+76:lost connection
+
+102:received connection, the ip is: 127.0.0.1
+
+102:received command string:ad -f
+
+102:lost connection
+
+105:received connection, the ip is: 127.0.0.1
+
+105:received command string:ad -s
+
+105:lost connection
+
+113:received connection, the ip is: 127.0.0.1
+
+113:received command string:tt -i=1 -n=3 -d=0.2
+
+113:lost connection
+
+139:received connection, the ip is: 127.0.0.1
+
+139:received command string:ad -f
+
+139:lost connection
+
+144:received connection, the ip is: 127.0.0.1
+
+144:received command string:ad -s
+
+144:lost connection
+
+152:received connection, the ip is: 127.0.0.1
+
+152:received command string:tt -i=1 -n=3 -d=0.2
+
+152:lost connection
+
