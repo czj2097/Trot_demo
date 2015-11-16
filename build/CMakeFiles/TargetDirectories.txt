@@ -1,2 +1,0 @@
-/home/hex/Desktop/Version3/Trot_demo/build/CMakeFiles/Client.dir
-/home/hex/Desktop/Version3/Trot_demo/build/CMakeFiles/Server.dir
